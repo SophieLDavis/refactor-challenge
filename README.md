@@ -1,19 +1,13 @@
 # refactor-challenge
 ## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
-To use the project, run the file:///Users/sophiedavis/refactor-challenge/ref.index.html
+The project is deployed as a live website at https://sophieldavis.github.io/refactor-challenge/. To install the code to develop the project, use the VS Code application to open the html and css styling files on your local environment from the Refactor Challenge repository. 
 
 ## Usage 
-
-
-Provide instructions and examples for use. Include screenshots as needed. 
+The website is currently deployed with a navigation bar that contain three tabs with working links that take the user to the matching section laid further down the page. There is a large central image and smaller images under each section of the website.  
 
 ```md
 ![alt text](assets/images/screenshot1.png)
-![alt text](assets/images/screenshot2.png)
-![alt text](assets/images/screenshot3.png)
+
 ```
 
 ## License
@@ -38,9 +32,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
